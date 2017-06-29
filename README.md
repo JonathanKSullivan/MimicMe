@@ -1,28 +1,9 @@
-### Prerequisites
-##### Notes: 
-### Installing
-#### Mac OS X and Linux
-#### Windows
-## Running the tests
-
-## Built With
-## Authors
-* **Udacity** - *Initial work* - [AIND-Recognizer](https://github.com/udacity/AIND-Recognizer)
-* **Jonathan Sulivan**
-
-## Acknowledgments
-* Hackbright Academy
-* Udacity
- 
-### Additional Information
-##### Provided Raw Data
-
 # Artificial Intelligence Engineer Nanodegree
 ## Intro to Computer Vision
 ### Project: Mimic Me!
 ## Overview
 
-In this project, you will learn to track faces in a video and identify facial expressions using Affectiva. As a fun visualization, you will tag each face with an appropriate emoji next to it. You will then turn this into a game where the player needs to mimic a random emoji displayed by the computer!
+In this project, I learned to track faces in a video and identify facial expressions using Affectiva. As a fun visualization, I tagged each face with an appropriate emoji next to it. I then turned this into a game where the player needs to mimic a random emoji displayed by the computer!
 
 
 ## Getting Started
@@ -70,7 +51,8 @@ Open a web browser and go to: [https://localhost:4443/](https://localhost:4443/)
 _Note: Your browser may notify you that your connection is not secure - that is because the SSL certificate you just created is not signed by an SSL Certificate Authority‎. This is okay, because we are using it only as a workaround to access the webcam. You can suppress the warning or choose "Proceed Anyway" to open the page._
 
 
-
+ 
+### Additional Information
 ## Affectiva Resources
 
 You may have to refer to resources in Affectiva's [JS SDK documentation](https://affectiva.readme.io/docs/getting-started-with-the-emotion-sdk-for-javascript) for more information abot the code.
@@ -81,6 +63,15 @@ Other references:
 - [Demo](https://jsfiddle.net/affectiva/opyh5e8d/show/) that this project is based on
 - Tutorials:
  [Camera stream](https://affectiva.readme.io/docs/analyze-the-camera-stream-3), [video](https://affectiva.readme.io/docs/analyze-a-video-frame-stream-4), [photo](https://affectiva.readme.io/docs/analyze-a-photo-3)
+
+## Built With
+## Authors
+* **Udacity** - *Initial work* - [AIND-CV-Mimic](https://github.com/udacity/AIND-CV-Mimic)
+* **Jonathan Sulivan**
+
+## Acknowledgments
+* Hackbright Academy
+* Udacity
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
